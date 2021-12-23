@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Gramps genealogy project.\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-05 19:16+0100\n"
-"PO-Revision-Date: 2021-06-07 12:32+0000\n"
+"PO-Revision-Date: 2021-12-23 10:04+0000\n"
 "Last-Translator: Barrie Phelan <bjpcorp@gmail.com>\n"
 "Language-Team: Irish <https://hosted.weblate.org/projects/gramps-project/"
 "gramps/ga/>\n"
@@ -300,6 +300,10 @@ msgid ""
 "the level of confidence in a date and even choose between seven different "
 "calendars. Try the button next to the date field in the Events Editor."
 msgstr ""
+"<b>Ag obair le dátaí</b><br/>Is féidir raon dátaí a thabhairt trí úsáid a bhaint as an "
+"Formáid" \"idir 4 Eanáir, 2000 agus 20 Márta, 2003\". Is féidir leat a chur in iúl freisin"
+"An leibhéal muiníne i dáta agus fiú a roghnú idir seacht gcinn"
+"Féilirí. Bain triail as an gcnaipe in aice leis an bpáirc dáta san eagarthóir imeachtaí."
 
 #: ../data/tips.xml:6
 msgid ""
@@ -823,6 +827,8 @@ msgid ""
 "Error: Family Tree '%s' already exists.\n"
 "The '-C' option cannot be used."
 msgstr ""
+"Earráid: tá an crann teaghlaigh '% s' ann cheana féin.
+"Ní féidir an rogha '-c' a úsáid."
 
 #: ../gramps/cli/arghandler.py:241
 #, python-format
@@ -831,11 +837,14 @@ msgid ""
 "If GEDCOM, Gramps-xml or grdb, use the -i option to import into a Family "
 "Tree instead."
 msgstr ""
+"Earráid: Níl Crann Teaghlaigh Ionchuir \"% s \ "ann.\n"
+"Má úsáideann GEDCOM, GRAMPS-XML nó GRDB, an rogha -i a allmhairiú isteach i dteaghlach "
+"Crann ina ionad."
 
 #: ../gramps/cli/arghandler.py:255
 #, python-format
 msgid "Error: Import file %s not found."
-msgstr ""
+msgstr "Earráid: Ní bhfuarthas comhad allmhairithe %s"
 
 #: ../gramps/cli/arghandler.py:273
 #, python-format
@@ -881,7 +890,7 @@ msgstr "Earráid: Ní féidir a oscailt '%s'"
 
 #: ../gramps/cli/arghandler.py:405
 msgid "List of known Family Trees in your database path\n"
-msgstr ""
+msgstr "Liosta de na Crainn Teaghlaigh aitheanta i do chonair bunachar sonraí\n"
 
 #: ../gramps/cli/arghandler.py:413
 #, python-format
@@ -890,7 +899,7 @@ msgstr ""
 
 #: ../gramps/cli/arghandler.py:431 ../gramps/cli/clidbman.py:188
 msgid "Gramps Family Trees:"
-msgstr ""
+msgstr "Crainn Teaghlaigh Gramps"
 
 #: ../gramps/cli/arghandler.py:437 ../gramps/cli/arghandler.py:439
 #: ../gramps/cli/arghandler.py:444 ../gramps/cli/arghandler.py:445
@@ -898,7 +907,7 @@ msgstr ""
 #: ../gramps/cli/clidbman.py:169 ../gramps/cli/clidbman.py:197
 #: ../gramps/gui/clipboard.py:916 ../gramps/gui/configure.py:1793
 msgid "Family Tree"
-msgstr ""
+msgstr "Crainn Teaghlaigh"
 
 #. Translators: used in French+Russian, ignore otherwise
 #: ../gramps/cli/arghandler.py:445 ../gramps/cli/arghandler.py:449
@@ -909,12 +918,12 @@ msgstr ""
 #: ../gramps/cli/arghandler.py:457
 #, python-format
 msgid "Performing action: %s."
-msgstr ""
+msgstr "Gníomh taibhiúcháin: %s."
 
 #: ../gramps/cli/arghandler.py:461 ../gramps/gen/plug/report/stdoptions.py:302
 #, python-format
 msgid "Using options string: %s"
-msgstr ""
+msgstr "Ag baint úsáide as teaghrán roghanna: %s"
 
 #: ../gramps/cli/arghandler.py:467
 #, python-format
@@ -923,20 +932,20 @@ msgstr ""
 
 #: ../gramps/cli/arghandler.py:478
 msgid "Cleaning up."
-msgstr ""
+msgstr "Glanadh suas."
 
 #: ../gramps/cli/arghandler.py:514
 msgid "Created empty Family Tree successfully"
-msgstr ""
+msgstr "Cruthaíodh crann teaghlaigh folamh go rathúil"
 
 #: ../gramps/cli/arghandler.py:517 ../gramps/cli/arghandler.py:543
 #, fuzzy
 msgid "Error opening the file."
-msgstr "Tharla botún ag oscailt comhad"
+msgstr "Earráid agus an comhad á oscailt"
 
 #: ../gramps/cli/arghandler.py:518 ../gramps/cli/arghandler.py:544
 msgid "Exiting..."
-msgstr ""
+msgstr "Ag imeacht."
 
 #: ../gramps/cli/arghandler.py:522
 #, python-format
@@ -945,20 +954,20 @@ msgstr ""
 
 #: ../gramps/cli/arghandler.py:541
 msgid "Opened successfully!"
-msgstr ""
+msgstr "Osclaíodh go rathúil é!"
 
 #: ../gramps/cli/arghandler.py:555
 msgid "Database is locked, cannot open it!"
-msgstr ""
+msgstr "Tá an bunachar sonraí faoi ghlas, ní féidir é a oscailt!"
 
 #: ../gramps/cli/arghandler.py:556
 #, python-format
 msgid "  Info: %s"
-msgstr ""
+msgstr "Eolas: %s"
 
 #: ../gramps/cli/arghandler.py:559
 msgid "Database needs recovery, cannot open it!"
-msgstr ""
+msgstr "Riachtanais Bunachar Sonraí Aisghabháil, ní féidir é a oscailt!"
 
 #: ../gramps/cli/arghandler.py:562
 msgid "Database backend unavailable, cannot open it!"
@@ -967,11 +976,11 @@ msgstr ""
 #: ../gramps/cli/arghandler.py:613 ../gramps/cli/arghandler.py:662
 #: ../gramps/cli/arghandler.py:709
 msgid "Ignoring invalid options string."
-msgstr ""
+msgstr "Ag neamhaird teaghrán roghanna neamhbhailí."
 
 #: ../gramps/cli/arghandler.py:637
 msgid "Unknown report name."
-msgstr ""
+msgstr "Ainm na tuarascála anaithnid."
 
 #: ../gramps/cli/arghandler.py:639
 #, python-format
