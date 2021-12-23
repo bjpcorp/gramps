@@ -42,50 +42,55 @@ msgid ""
 "individual as well as the complex relationships between various people, "
 "places and events."
 msgstr ""
+"Tugann sé an cumas duit a lán sonraí a thaifeadadh faoi shaol duine "
+"aonair chomh maith leis na caidrimh chasta idir daoine éagsúla, "
+"áiteanna agus imeachtaí."
 
 #: ../data/gramps.appdata.xml.in:9
 msgid ""
 "All of your research is kept organized, searchable and as precise as you "
 "need it to be."
 msgstr ""
+"Coinnítear do chuid taighde go léir eagraithe, inchuardaithe agus cruinn "
+"mar ba mhaith leat é a bheith"
 
 #: ../data/gramps.appdata.xml.in:12
 msgid "Gramps Development Team"
-msgstr ""
+msgstr "Foireann Forbartha Gramps"
 
 #: ../data/gramps.desktop.in:4
 msgid "Genealogy System"
-msgstr ""
+msgstr "Córas Ginealais"
 
 #: ../data/gramps.desktop.in:12
 msgid "Genealogy;Family History;Research;Family Tree;GEDCOM;"
-msgstr ""
+msgstr "Ginealas;Stair Teaghlaigh;Taighde;Crann Teaghlaigh;GEDCOM"
 
 #: ../data/gramps.xml.in:6
 msgid "Gramps database"
-msgstr ""
+msgstr "Bunachar Gramps"
 
 #: ../data/gramps.xml.in:10 ../gramps/plugins/export/export.gpr.py:76
 #: ../gramps/plugins/importer/import.gpr.py:54
 msgid "GEDCOM"
-msgstr ""
+msgstr "GEDCOM"
 
 #: ../data/gramps.xml.in:20
 msgid "Gramps package"
-msgstr ""
+msgstr "Pacáiste Gramps"
 
 #: ../data/gramps.xml.in:24
 msgid "Gramps XML database"
-msgstr ""
+msgstr "Bunachar sonraí Gramps XML"
 
 #: ../data/gramps.xml.in:32
 msgid "GeneWeb source file"
-msgstr ""
+msgstr "Comhad foinse GeneWeb"
 
 #: ../data/holidays.xml:3
 #, fuzzy
 msgid "Bulgaria"
-msgstr "Bulgáiris"
+msgstr "An Bhulgáir"
 
 #: ../data/holidays.xml:52
 #, fuzzy
@@ -94,7 +99,7 @@ msgstr "Ceanada"
 
 #: ../data/holidays.xml:84
 msgid "Chile"
-msgstr ""
+msgstr "An tSile"
 
 #: ../data/holidays.xml:107
 #, fuzzy
@@ -104,19 +109,19 @@ msgstr "An tSín"
 #: ../data/holidays.xml:110
 #, fuzzy
 msgid "Croatia"
-msgstr "Cróitis"
+msgstr "An Chróit"
 
 #: ../data/holidays.xml:126
 msgid "Czech Republic"
-msgstr ""
+msgstr "Poblacht na Seice"
 
 #: ../data/holidays.xml:141
 msgid "England"
-msgstr ""
+msgstr "Sasana"
 
 #: ../data/holidays.xml:171
 msgid "Finland"
-msgstr ""
+msgstr "An Fhionlainn"
 
 #: ../data/holidays.xml:265
 #, fuzzy
@@ -126,51 +131,51 @@ msgstr "An Fhrainc"
 #: ../data/holidays.xml:301
 #, fuzzy
 msgid "Germany"
-msgstr "Gearmáinis"
+msgstr "An Ghearmáin"
 
 #: ../data/holidays.xml:318
 msgid "Japan"
-msgstr ""
+msgstr "An tSeapáin"
 
 #: ../data/holidays.xml:341
 msgid "Jewish Holidays"
-msgstr ""
+msgstr "Laethanta Saoire Giúdacha"
 
 #: ../data/holidays.xml:342
 msgid "Purim"
-msgstr ""
+msgstr "Purim"
 
 #: ../data/holidays.xml:343
 msgid "Passover"
-msgstr ""
+msgstr "Cháisc na nGiúdach"
 
 #: ../data/holidays.xml:344
 msgid "2 of Passover"
-msgstr ""
+msgstr "2 de Cháisc na nGiúdach"
 
 #: ../data/holidays.xml:345
 msgid "3 of Passover"
-msgstr ""
+msgstr "3 de Cháisc na nGiúdach"
 
 #: ../data/holidays.xml:346
 msgid "4 of Passover"
-msgstr ""
+msgstr "4 de Cháisc na nGiúdach"
 
 #: ../data/holidays.xml:347
 msgid "5 of Passover"
-msgstr ""
+msgstr "5 de Cháisc na nGiúdach"
 
 #: ../data/holidays.xml:348
 msgid "6 of Passover"
-msgstr ""
+msgstr "6 de Cháisc na nGiúdach"
 
 #: ../data/holidays.xml:349
 msgid "7 of Passover"
-msgstr ""
+msgstr "7 de Cháisc na nGiúdach"
 
 #: ../data/holidays.xml:350
 msgid "Shavuot"
-msgstr ""
+msgstr "Shavuot"
 
 #: ../data/holidays.xml:351
 msgid "Rosh Ha'Shana"
@@ -178,15 +183,15 @@ msgstr ""
 
 #: ../data/holidays.xml:352
 msgid "Rosh Ha'Shana 2"
-msgstr ""
+msgstr "Rosh HaShanah 2"
 
 #: ../data/holidays.xml:353
 msgid "Yom Kippur"
-msgstr ""
+msgstr "Yom Kippur"
 
 #: ../data/holidays.xml:354
 msgid "Sukot"
-msgstr ""
+msgstr "Sukot"
 
 #: ../data/holidays.xml:355
 msgid "2 of Sukot"
@@ -250,16 +255,16 @@ msgstr ""
 
 #: ../data/holidays.xml:371
 msgid "New Zealand"
-msgstr ""
+msgstr "An Nua-Shéalainn"
 
 #: ../data/holidays.xml:387
 msgid "Russia"
-msgstr ""
+msgstr "An Rúis"
 
 #: ../data/holidays.xml:403
 #, fuzzy
 msgid "Serbia"
-msgstr "Seirbis"
+msgstr "An tSeirbia"
 
 #: ../data/holidays.xml:418
 #, fuzzy
@@ -269,7 +274,7 @@ msgstr "Seirbis"
 #: ../data/holidays.xml:433
 #, fuzzy
 msgid "Slovakia"
-msgstr "Slóvaicis"
+msgstr "An tSlóvaic"
 
 #: ../data/holidays.xml:450 ../gramps/plugins/mapservices/eniroswedenmap.py:47
 #, fuzzy
@@ -279,12 +284,12 @@ msgstr "An tSualainn"
 #: ../data/holidays.xml:477
 #, fuzzy
 msgid "Ukraine"
-msgstr "Ucráinis"
+msgstr "An Úcráin"
 
 #: ../data/holidays.xml:504
 #, fuzzy
 msgid "United States of America"
-msgstr "Stáit Aontaithe Mheiriceá"
+msgstr "Stáit Aontaithe Mhéiriceá"
 
 #: ../data/tips.xml:4
 msgid ""
