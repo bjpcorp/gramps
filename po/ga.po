@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../data/gramps.appdata.xml.in:4 ../data/gramps.desktop.in:3
 msgid "Gramps"
-msgstr ""
+msgstr "Gramps"
 
 #: ../data/gramps.appdata.xml.in:5 ../data/gramps.desktop.in:6
 msgid ""
@@ -33,6 +33,8 @@ msgid ""
 "Gramps is a genealogy program that is both intuitive for hobbyists and "
 "feature-complete for professional genealogists."
 msgstr ""
+"Is clár ginealais é Gramps atá iomasach do chaitheamh aimsire agus "
+"gné-iomlán do ghineadóirí gairmiúla."
 
 #: ../data/gramps.appdata.xml.in:8
 msgid ""
